@@ -1,0 +1,26 @@
+<annotation verified="no">
+  <folder>JPEGImages</folder>
+  <filename>7</filename>
+  <path>F:\VOC2020\JPEGImages\7.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>416</width>
+    <height>416</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>yellowball</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>201</xmin>
+      <ymin>152</ymin>
+      <xmax>270</xmax>
+      <ymax>212</ymax>
+    </bndbox>
+  </object>
+</annotation>
